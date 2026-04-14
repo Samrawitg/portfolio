@@ -1,0 +1,30 @@
+[
+  {
+    "title": "NYC Yellow Taxi Trip Analysis",
+    "subtitle": "3 million trips · January 2023",
+    "description": "End-to-end data science project uncovering patterns in trip volume, fare pricing, tipping behavior, and revenue trends across NYC's yellow taxi fleet. Includes a linear regression model that predicts tip amounts with a Mean Absolute Error of $1.31.",
+    "highlights": [
+      "Tuesday is the busiest day with ~491,000 trips",
+      "5am has the highest average fare due to airport runs",
+      "Credit card users tip an average of $4.30 vs $0 recorded for cash",
+      "ML model trained on 1.88M rows"
+    ],
+    "tools": ["Python", "PostgreSQL", "pandas", "scikit-learn", "Tableau"],
+    "dashboard": "https://public.tableau.com/app/profile/samrawit.anteneh/viz/NYCYellowTaxiAnalysis-January2023/Dashboard1",
+    "github": "https://github.com/Samrawitg/nyc-taxi-analysis"
+  },
+  {
+    "title": "U.S. Labor Market Analysis Pipeline",
+    "subtitle": "ETL pipeline · 2022–2024",
+    "description": "Fully automated ETL pipeline extracting data from BLS, FRED, and OEWS government APIs, transforming and loading into PostgreSQL, and visualizing key labor market trends across 809 occupations and 6 industry sectors.",
+    "highlights": [
+      "Workers faced real purchasing power losses in early 2023 when inflation outpaced wage growth",
+      "Job openings fell below period average by September 2023",
+      "Database Architects lead data roles at $135,980 median annual wage",
+      "Pipeline orchestrated by a single pipeline.py script"
+    ],
+    "tools": ["Python", "PostgreSQL", "pandas", "FRED API", "BLS API", "Tableau"],
+    "dashboard": "https://public.tableau.com/app/profile/samrawit.anteneh/viz/USLaborMarketAnalysis2022-2024/USLMADashboard",
+    "github": "https://github.com/Samrawitg/labor-market-pipeline"
+  }
+]
