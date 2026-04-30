@@ -26,5 +26,21 @@
     "tools": ["Python", "PostgreSQL", "pandas", "FRED API", "BLS API", "Tableau"],
     "dashboard": "https://public.tableau.com/app/profile/samrawit.anteneh/viz/USLaborMarketAnalysis2022-2024/USLMADashboard",
     "github": "https://github.com/Samrawitg/labor-market-pipeline"
-  }
+  },
+  {
+    "title": "Manchester United — The Premier League Trophy Drought Analysis",
+    "subtitle": "15 seasons · 2009/10 to 2023/24 · 10,000 Monte Carlo simulations",
+    "description": "End-to-end data analytics project investigating why Manchester United have not won the Premier League since Sir Alex Ferguson retired in 2013. Covers performance decline, manager impact, transfer efficiency, and a Monte Carlo simulation model that estimates the probability and timeline of United's next title challenge.",
+    "highlights": [
+        "Average points dropped from 85 (Fergie era) to 66 (post-Fergie) — a 19 point fall",
+        "Champions gap grew from 1 point behind to 35 points behind in a single decade",
+        "No post-Fergie manager has hit the 2.0 PPG title challenger threshold",
+        "Transfer spend shows no consistent correlation with league finish",
+        "Monte Carlo model gives United a 24% chance of winning the PL in the next 10 years",
+        "Most likely title window: 2027/28"
+      ],
+    "tools": ["Python", "pandas", "matplotlib", "scikit-learn", "numpy", "Tableau"],
+    "dashboard": "https://public.tableau.com/app/profile/samrawit.anteneh/viz/ManchesterUnitedTrophyDroughtAnalysis/ManUtdAnalysisDashboard",
+    "github": "https://github.com/Samrawitg/manchester-united-trophy-drought"
+}
 ]
