@@ -42,5 +42,21 @@
     "tools": ["Python", "pandas", "matplotlib", "scikit-learn", "numpy", "Tableau"],
     "dashboard": "https://public.tableau.com/app/profile/samrawit.anteneh/viz/ManchesterUnitedTrophyDroughtAnalysis/ManUtdAnalysisDashboard",
     "github": "https://github.com/Samrawitg/manchester-united-trophy-drought"
+},
+{
+    "title": "World Cup 2026 Predictor",
+    "subtitle": "Historical Prediction Model · Live Match Tracker · Advancement Odds Simulator",
+    "description": "A full-stack AI-powered web app that predicts the 2026 FIFA World Cup winner and tracks live match results in real time.",
+    "highlights": [
+        "Factors in FIFA rankings, host advantage, confederation strength, and WC experience",
+        "Generates win probabilities for all 48 qualified teams",
+        "Real-time scores and standings via football-data.org API",
+        "Auto-refreshes every 5 minutes during the tournament",
+        "Monte Carlo simulation running 10,000 tournaments",
+        "Calculates each team's % chance of advancing from the group stage"
+      ],
+    "tools": ["Python", "Flask", "SQLite", "scikit-learn", "HTML", "CSS", "JavaScript", "Chart.js"],
+    "site": "world-cup-predictor-rnhl.onrender.com",
+    "github": "https://github.com/Samrawitg/manchester-united-trophy-drought"
 }
 ]
